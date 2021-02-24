@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "react-native-form-validator": "^0.3.5"
+  }
+}
